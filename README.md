@@ -1,6 +1,11 @@
-# Mi página de mantenimiento y error para smschatven
+# Mi página de aplicación, mantenimiento y error para smschatven
 
-Disponible en: https://rrg1459.github.io/errata/error.html
-Disponible en: https://rrg1459.github.io/errata/mantenimiento.html
+## Enlaces
 
-###
+link https://smschatven.herokuapp.com
+
+link https://rrg1459.github.io/smschatven/error.html
+
+link https://rrg1459.github.io/smschatven/mantenimiento.html
+
+### #
