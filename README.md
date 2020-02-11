@@ -2,7 +2,6 @@
 
 ## Enlaces
 
-link https://smschatven.herokuapp.com
 
 link https://rrg1459.github.io/smschatven/error.html
 
